@@ -5,7 +5,7 @@ function main(){
       var myVerb = "ran";
       var myAdjective = "big";
       var myAdverb = "quickly";
-      var wordBlanks = "With " +  myNoun +  " i " +  myVerb +  " very " +  myAdjective + " and " + myAdverb + "."  ;
+      var wordBlanks =   myNoun + " "  +  myVerb +  " " +  myAdjective + " " + myAdverb + "."  ;
       
       
 
