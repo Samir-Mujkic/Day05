@@ -2,7 +2,7 @@ function main(){
 
     // Only change code below this line
       var myName = "Samir";
-      var myString = "My name is" + myName + "and I am well!";
+      var myString = "My name is " + myName + " and I am well!";
       
 
 
